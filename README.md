@@ -6,7 +6,7 @@ Can also be used to validate emails within Flutter apps (see Flutter email valid
 Installation  Dart requires the latest version of Dart. 
 You can download the latest and greatest here. 
 
-######################################################################################################
+######################################################################################
 
 1. Depend on it  Add this to your package's pubspec.yaml file: dependencies: email_validator: '^1.0.6' Install it 
 2. You can install packages from the command line: $ pub get .. Alternatively, your editor might support pub. 
