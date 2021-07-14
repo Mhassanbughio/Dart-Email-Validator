@@ -15,7 +15,8 @@ Installation  Dart requires the latest version of Dart. You can download the lat
 example below: 
 
 void main() {     
-var email = "MuhammadHassan.Bughio@studentambaasdors.com"; assert(EmailValidator.validate(email)); } Tips  You can also use this repo as a template for creating Dart packages, just clone the repo and start hacking :)
+var email = "MuhammadHassan.Bughio@studentambaasdors.com"; 
+assert(EmailValidator.validate(email)); } Tips  You can also use this repo as a template for creating Dart packages, just clone the repo and start hacking :)
 
 Use Forms and TextFormFields for Email Validation in Flutter. Also, learn how to autofill email fields.
 
